@@ -1,0 +1,2 @@
+# TradeProApp-
+Learning trading app
